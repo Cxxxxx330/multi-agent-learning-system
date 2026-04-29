@@ -37,7 +37,7 @@ Memory Agent → Store & Optimize
 
 ---
 
-## ▶️ Run
+## 💡 Motivation
 
-```bash
-python main.py
+Traditional self-learning lacks structure and feedback.  
+This project explores how multi-agent systems can simulate a personalized tutor.
